@@ -1,0 +1,2 @@
+kOmegaML.C
+LIB = $(FOAM_USER_LIBBIN)/libTurbulencekOmegaML
